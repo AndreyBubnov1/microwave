@@ -8,4 +8,7 @@ class Lexicon:
         self.paper = "Бумага"
         self.scissors = "Ножницы"
         
+        self.bot_winner = "Я победил\n\nСыграем еще?"
+        self.player_winner = "Ты победил\n\nСыграем еще?"
+        self.nobody_winner = "Ничья\n\nСыграем еще?"
 lexicon = Lexicon()
